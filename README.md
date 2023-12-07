@@ -5,6 +5,20 @@
 # Abstract
 “Fossil-fuel combustion by-products are the world’s most significant threat to children’s health and future and are major contributors to global inequality and environmental injustice” (Perera, 2015). While we still live in a world where we are heavily reliant on fossil-fueled vehicles, understanding how fuel types can help impact those emissions is critical to understanding how to approach and limit environmental injustice. While new methods such as hybrid cars or electric cars hope to heavily reduce or completely eliminate our reliance on fossil fuels in this sector, we still understand that they are years away from rolling out a completely new set of vehicles around the world. Therefore to make an impact now, we can create an algorithm in which users can understand their pollution based on their fuel type usage and by creating this awareness, hope to limit individual human pollution by making smarter choices in fuel types. The primary aim of this research is to investigate the relationship between the various fuel types for internal combustion engines compared to the pollution they produce. By comparing various data sources we want to describe to the readers the impact of fuel choices on pollution and give key insights into making more sustainable and environmentally positive choices. To achieve our goal we want to collect data based on fuel consumption and their respective pollution levels. We want to intake a wide range of data to ensure unbiased fair results. By this we mean we want data from numerous cities and locations around the world. While our algorithm and results have not been developed yet after accessing prior research we understand that data is important in making informed decisions on our fuel consumption. A study by the Government of Canada helped to compare brands and vehicle models by their fuel consumption and carbon emissions (Hien & Kor, 2022). While that data may “make evidence-based recommendations to both vehicle users and producers to reduce their environmental impacts”, the algorithm we hypothesize will start to be able to rate not only how the car performs in emissions but how the fuel does as well (Hien & Kor, 2022). By highlighting the importance of fuel choices and the there influence on pollution levels we hope to promote a transition into cleaner more reliable and renewable forms of energy in use for transportation. 
 
+# Dataset
+Data being used is sourced from the EIA as a monthly dataset from the USA transportation sector. The data set can be found in section 2.2 at:
+*   https://www.eia.gov/totalenergy/data/monthly/
+*   https://www.eia.gov/totalenergy/data/monthly/#environment
+
+Download for data raw:
+https://www.eia.gov/totalenergy/data/browser/xls.php?tbl=T02.05&freq=m
+
+*   https://www.eia.gov/totalenergy/data/browser/xls.php?tbl=T02.05&freq=m
+*   https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T11.05#/?f=M&start=200001
+*   https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T11.07#/?f=M
+
+Download for modified data:https://docs.google.com/spreadsheets/d/11AQ37wdHwwgXyAPWROtKe-Dsx9sb8LTaygj88tlAPPM/edit?usp=sharing
+Download for modified data:https://drive.google.com/file/d/13OwKKJ8ksppC3Vw6MB49SlvLTTfGhAwk/view?usp=sharing
 
 # Literature Review
 “Fossil-fuel combustion by-products are the world’s most significant threat to children’s health and future and are major contributors to global inequality and environmental injustice” (Perera, 2015). As global pollution levels continue to skyrocket, predictions towards the future are crucial to help convince individuals to make better, more eco-conscious choices. We want to expand the available knowledge on the topic of fuel choices and the environmental impacts specific fuels have within the transportation sector. Some key themes we cover within this review include differing ways of gathering CO2 data, and common algorithms available for CO2 predictions.
